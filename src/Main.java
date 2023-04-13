@@ -61,7 +61,7 @@ public class Main {
                wordsWihDuplicates++;
            }
        }
-        System.out.println("Количество слов с повторениями " +  wordsWihDuplicates);
+        System.out.println(" Количество слов с повторениями " +  wordsWihDuplicates);
         System.out.println("-----------------------------");
     }
 
